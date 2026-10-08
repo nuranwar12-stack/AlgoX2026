@@ -1,0 +1,6 @@
+{
+  "name": "Simulasi Algoritma & Struktur Data SMA",
+  "description": "Aplikasi pembelajaran interaktif mata pelajaran Informatika SMA Kelas X/XII: Bab 2 Algoritma dan Struktur Data melalui simulasi, visualisasi, dan tantangan praktik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
